@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Decision Tree Classifier**
 
-- 🌱 I’m currently learning **Selenium**
+- 🌱 I’m currently learning **Open CV**
 
 - 👯 I’m looking to collaborate on **all type of Python and Data Science projects**
 
