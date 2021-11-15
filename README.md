@@ -1,35 +1,97 @@
-<h1 align="center">Hi 👋, I'm Abhisek Barik</h1>
-<h3 align="center">Aspiring Data Scientist from India</h3>
+# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Abhisek](https://github.com/Abhisek-Barik)!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhisek-barik&label=Profile%20views&color=0e75b6&style=flat" alt="abhisek-barik" /> </p>
+<hr>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhisek-barik" alt="abhisek-barik" /></a> </p>
+## 💁‍♂️ About me
 
-- 🔭 I’m currently working on **Decision Tree Classifier**
+- 🏫 Pursuing **BCA** from **[RIMS ROURKELA]**.
+- 🧠 I'm a **quick learner**, a **team player**, a **good listener**, and love **helping others**.
+- 🚀 Fields that interest me most include **Data Science, Machine Learning, Deep Learning, NLP, and Artificial Intelligence**.
+- 🏓 Outside of **Github**, catch me for a quick best of 3 in **Clash Royale**.
+- 🤓 My hobbies are **Volunteering & Community development, Learning New Languages, Listening songs and Sports.**
 
-- 🌱 I’m currently learning **Open CV**
+<hr>
 
-- 👯 I’m looking to collaborate on **all type of Python and Data Science projects**
+## 🔗 Connect with Me
+  
+[<img align="left" alt="Abhisek | Mail" width="80px" src="https://img.shields.io/badge/-Gmail-000000?logo=gmail&Color=0A66C2&style=flat-square" />][mail]
+[<img align="left" alt="Abhisek | LinkedIn" width="100px" src="https://img.shields.io/badge/-LinkedIn-000000?logo=linkedin&Color=0A66C2&style=flat-square" />][linkedin]
+[<img align="left" alt="Abhisek | Kaggle" width="88px" src="https://img.shields.io/badge/-Kaggle-000000?logo=kaggle&Color=0A66C2&style=flat-square" />][kaggle]
+[<img align="left" alt="Abhisek | HackerRank" width="127px" src="https://img.shields.io/badge/-HackerRank-000000?logo=hackerrank&Color=0A66C2&style=flat-square" />][hackerrank]
 
-- 💬 Ask me about **Python**
+<br>
+<hr>
 
-- 📫 How to reach me **abhisekbarik787@gmail.com**
+## 📜 Languages I know 
 
-- ⚡ Fun fact **I'm a good boy**
+<img align="left" width="95px" src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=plastic" />
+<img align="left" width="75px" src="https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&Color=white&style=plastic" />
+<img align="left" width="95px" src="https://img.shields.io/badge/-HTML5-13324B?logo=html5&Color=white&style=plastic" />
+<img align="left" width="70px" src="https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&Color=white&style=plastic" />
+<img align="center" width="105px" src="https://img.shields.io/badge/-MySQL-000000?logo=mysql&Color=white&style=plastic" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/i-am-abhisek-barik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="i-am-abhisek-barik" height="30" width="40" /></a>
-<a href="https://kaggle.com/abhisekbarik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abhisekbarik" height="30" width="40" /></a>
-<a href="https://instagram.com/hunter._.zolomon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hunter._.zolomon" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/abhisekbarik787" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abhisekbarik787" height="30" width="40" /></a>
+<hr>
+
+## 🧰 Tools I use 
+
+<img align="left" width="100px" src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&Color=white&style=plastic" />
+<img align="left" width="110px" src="https://img.shields.io/badge/-Anaconda-006643?logo=anaconda&Color=white&style=plastic" />
+<img align="left" width="100px" src="https://img.shields.io/badge/-Jupyter-000000?logo=jupyter&Color=white&style=plastic" />
+<img align="left" width="160px" src="https://img.shields.io/badge/-Google%20Colab-000000?logo=google-colab&Color=white&style=plastic" />
+<img align="left" width="110px" src="https://img.shields.io/badge/-MS%20Excel-217346?logo=microsoft-excel&Color=white&style=plastic" />
+
+<br>
+<hr>
+
+## ML libraries I :heart:
+
+<img align="left" width="100px" src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&Color=white&style=plastic" />
+<img align="left" width="100px" src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&Color=white&style=plastic" />
+<img align="left" width="150px" src="https://img.shields.io/badge/-SciKit%20Learn-000000?logo=scikit-learn&Color=white&style=plastic" />
+<!--<img align="left" width="90px" src="https://img.shields.io/badge/-Matplotlib-3F4F75?logo=matplot&Color=white&style=plastic" />-->
+<img align="left" width="90px" src="https://img.shields.io/badge/-PlotLy-87CEEB?logo=plotly&Color=white&style=plastic" />
+<img align="left" width="90px" src="https://img.shields.io/badge/-Keras-D00000?logo=keras&Color=white&style=plastic" />
+<img align="left" width="110px" src="https://img.shields.io/badge/-OpenCV-1572B6?logo=opencv&Color=white&style=plastic" />
+
+<br>
+<hr>
+
+## 🏆 Github Profile Trophy
+<p>
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=Abhisek-Barik&column=9&theme=gruvbox&no-frame=true" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+<hr>  
+    
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhisek-barik&show_icons=true&locale=en&layout=compact" alt="abhisek-barik" /></p>
+[mail]: mailto:abhisekbarik787@gmail.com     
+[linkedin]: https://www.linkedin.com/in/i-am-abhisek-barik/
+[kaggle]: https://www.kaggle.com/abhisekbarik
+[hackerrank]: https://www.hackerrank.com/abhisekbarik787
+[Python]: https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg
+[C++]: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png
+[SQL]: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png
+[MATLAB]: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png
+[Excel]: https://img.icons8.com/color/48/ffffff/ms-excel.png
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhisek-barik&show_icons=true&locale=en" alt="abhisek-barik" /></p>
+    
+ <!--
+### Languages and Tools:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhisek-barik&" alt="abhisek-barik" /></p>
+[<img align="left" alt="Python" width="34px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />][Python]
+[<img align="left" alt="C++" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />][C++]
+[<img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][SQL]
+[<img align="left" alt="MATLAB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" />][MATLAB]
+[<img align="left" alt="Excel" height="34px" width="31px" src="https://img.icons8.com/fluency/48/ffffff/microsoft-excel-2019.png" />][Excel]
+</p>
+<br />
+<br />
+
+<br>
+
+<p align="left">
+  <a href="https://github.com/Abhisek-Barik"><img width="400" src="https://github-readme-stats.vercel.app/api?username=Abhisek-Barik&show_icons=true&theme=gruvbox">
+  <a href="https://github.com/Abhisek-Barik"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhisek-Barik&hide=html,scss,css,shell,javascript,ruby&langs_count=10&layout=compact&theme=gruvbox">
+</p>
+
+-->
